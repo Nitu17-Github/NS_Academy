@@ -1,0 +1,88 @@
+{
+    "Diffrent_Items":[
+        {
+            "item_name":"Computer",
+            "Item_id":"I01",
+            "item_desc": "It is computer",
+            "sub_item":[ 
+        {
+             "company":"HP",
+             "sub_id": "D01",
+             "price": "35000",
+             "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis dolor ipsum, non luctus nisl placerat id. Nunc ac suscipit purus. Phasellus tristique, eros a tincidunt vestibulum, mi odio pulvinar tellus, ut suscipit tortor nisl vel lectus. Maecenas at justo tempor, sodales purus sed, convallis purus.",
+             "quantity":5,
+             "sub_img":"../../../../Image/Cow.jpg"
+        }, 
+        {
+            "company":"LG",
+            "sub_id": "D02",
+            "price": "40000",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis dolor ipsum, non luctus nisl placerat id. Nunc ac suscipit purus. Phasellus tristique, eros a tincidunt vestibulum, mi odio pulvinar tellus, ut suscipit tortor nisl vel lectus. Maecenas at justo tempor, sodales purus sed, convallis purus.",
+            "quantity":4,
+            "sub_img":"../../../../Image/Taj.jpg"
+        }]
+    },
+    {
+        "item_name":"Mobile",
+            "Item_id":"I02",
+            "item_desc": "It is mobile",
+            "sub_item":[
+                {
+                    "company":"SONY",
+                    "sub_id": "D03",
+                    "price": "45000",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis dolor ipsum, non luctus nisl placerat id. Nunc ac suscipit purus. Phasellus tristique, eros a tincidunt vestibulum, mi odio pulvinar tellus, ut suscipit tortor nisl vel lectus. Maecenas at justo tempor, sodales purus sed, convallis purus.",
+                    "quantity":3,
+                    "sub_img":"../../../../Image/Taj.jpg"
+                },
+                {
+                    "company":"NOKIA",
+                    "sub_id": "D04",
+                    "price": "40000",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis dolor ipsum, non luctus nisl placerat id. Nunc ac suscipit purus. Phasellus tristique, eros a tincidunt vestibulum, mi odio pulvinar tellus, ut suscipit tortor nisl vel lectus. Maecenas at justo tempor, sodales purus sed, convallis purus.",
+                    "quantity":2,
+                    "sub_img":"../../../../Image/RIVER.jpg"
+                },
+                {
+                    "company":"SAMSUNG",
+                    "sub_id": "D05",
+                    "price": "40000",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis dolor ipsum, non luctus nisl placerat id. Nunc ac suscipit purus. Phasellus tristique, eros a tincidunt vestibulum, mi odio pulvinar tellus, ut suscipit tortor nisl vel lectus. Maecenas at justo tempor, sodales purus sed, convallis purus.",
+                    "quantity":1,
+                    "sub_img":"../../../../Image/RIVER.jpg"
+                }]
+    },
+    {
+        "item_name":"Television",
+        "Item_id":"I03",
+        "item_desc": "It isTelevision",
+        "sub_item":[
+            {
+                     
+                    "company":"SAMSUNG",
+                    "sub_id": "D05",
+                    "price": "40000",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis dolor ipsum, non luctus nisl placerat id. Nunc ac suscipit purus. Phasellus tristique, eros a tincidunt vestibulum, mi odio pulvinar tellus, ut suscipit tortor nisl vel lectus. Maecenas at justo tempor, sodales purus sed, convallis purus.",
+                    "quantity":1,
+                    "sub_img":"../../../../Image/RIVER.jpg"
+            },
+            {
+                      
+                    "company":"VIVO",
+                    "sub_id": "D06",
+                    "price": "50000",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis dolor ipsum, non luctus nisl placerat id. Nunc ac suscipit purus. Phasellus tristique, eros a tincidunt vestibulum, mi odio pulvinar tellus, ut suscipit tortor nisl vel lectus. Maecenas at justo tempor, sodales purus sed, convallis purus.",
+                    "quantity":7,
+                    "sub_img":"../../../../Image/RIVER.jpg"
+            },
+            {
+                    
+                "company":"SA",
+                "sub_id": "D05",
+                "price": "40000",
+                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis dolor ipsum, non luctus nisl placerat id. Nunc ac suscipit purus. Phasellus tristique, eros a tincidunt vestibulum, mi odio pulvinar tellus, ut suscipit tortor nisl vel lectus. Maecenas at justo tempor, sodales purus sed, convallis purus.",
+                "quantity":1,
+                "sub_img":"../../../../Image/RIVER.jpg"
+            }]
+            }
+    ]}

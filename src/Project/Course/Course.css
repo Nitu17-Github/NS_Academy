@@ -1,0 +1,11 @@
+.course{
+    background-image: url("../../../public/Image/download.jpg");
+    width:100%;
+    height:700px;
+    background-size: cover;
+
+}
+Card.Body{
+   color: aqua;
+   margin-top: 500px;
+}
